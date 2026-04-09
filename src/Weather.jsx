@@ -7,7 +7,7 @@ import rainIcon from './assets/images/rainIcon.jpg';
 import snowIcon from './assets/images/snowIcon.jpg';
 import humanity from './assets/images/humanity.jpg';
 import windSpeed from './assets/images/windSpeed.jpg';
-import clearIcon from './assets/images/ClearIcon.jpg';
+import clearIcon from './assets/images/clearIcon.jpg';
 
 const WeatherDetails = ({ icon, temp, city, country, lat, log, humidity, wind }) => {
   return (
